@@ -1,0 +1,29 @@
+{
+  "name": "asciidoctor-brunch",
+  "version": "0.1.0",
+  "description": "An Asciidoctor plugin for Brunch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gpyh/asciidoctor-brunch.git"
+  },
+  "keywords": [
+    "asciidoc",
+    "asciidoctor",
+    "asciidoctor.js",
+    "markup",
+    "brunch"
+  ],
+  "author": "Yacine Hmito",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gpyh/asciidoctor-brunch/issues"
+  },
+  "homepage": "https://github.com/gpyh/asciidoctor-brunch#readme",
+  "dependencies": {
+    "asciidoctor.js": "^1.5.2"
+  }
+}
